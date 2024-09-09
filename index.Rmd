@@ -1,0 +1,55 @@
+---
+title: "Manisha Barse"
+image: "ManishaBarse.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/manisha-barse"
+#  - label: Twitter
+#    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/manishabarse"
+  - label: Email
+    url: "mailto:mbarse.libd@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+#### About Me
+
+I am currently working as a Research Assistant at Lieber Institute of Brian Development in Data Science Team headed by Leonardo Collado-Torres. I hold dual master's degrees in Bioinformatics and  Materials Engineering from UIC, where I focused on bioinformatics analyses, particularly with protein structure prediction, scRNA-seq and scATAC-seq data. I've utilized tools like Seurat, Signac in R, and Scanpy in Python for data analysis. Currently I am learning about spatial transcriptomics and building computational pipelines.
+
+#### Education
+
+**University of Illinois Chicago** | Chicago, IL.   
+M.S. in Materials Engineering | 2022 - 2023  
+M.S. in Bioinformatics | 2019 - 2022
+
+**ABV Indian Institute of Information Technology & Management** | Gwalior, India.   
+M.Tech in VLSI Design | 2016 - 2018
+
+**Savitribai Phule Pune University** | Pune, India.   
+B.E. in Electronics & Telecommunications | 2016 - 2018
+
+#### Experience
+
+**Lieber Institute of Brain Development** | Research Assistant - Data Science | August 2024 - Present
+
+**Computational Materials Research Lab, UIC** | Research Assistant | August 2022 - August 2024
+
+**Data Glacier** | Data Science Intern | January 2024 - May 2024
+
+**University of Illinois Chicago** | Teaching Assistant | January 2021 - July 2023
+
+**Molecular & Systems Computational Bioengineering Lab, UIC** | Research Assistant | August 2019 - July 2022
+
+#### Publications
+
+[3D-BMPP: 3D Beta-barrel Membrane Protein Predictor](https://pubmed.ncbi.nlm.nih.gov/36959455/) Tian W, Lin M, Tang K, Barse M, Naveed H, and Liang J. (March 2023).   
+[Morse Code- A Security Enhancer ](https://www.ijsr.net/get_count.php?paper_id=ART20161152) Barse M, Manuel R. (2016).   
+[Characterization of Accelerometer For Defence Application]( https://europub.co.uk/articles/characterization-of-accelerometer-for-defense-application-A-28418) Manuel R, Barse M, Aware A. (2016).   
+[Evolution of VLAN](https://repo.ijiert.org/index.php/ijiert/article/view/692) Barse M, Manuel R. (2015).  
+
+#### Conference Poster Presentations
+
+[Modelling Long Loops of Membrane Proteins using Pretzel](https://www.cell.com/biophysj/fulltext/S0006-3495(20)31323-0) | 65th Biophysical Society Annual Meeting | Feb 2021.   
+[First Principle investigation of diabetes biomarkers effect on carbon nanotube based devices](https://inis.iaea.org/search/search.aspx?orig_q=RN:52097408) | First International. Conference on Advances in Nanomaterials and Devices for Energy and Environment | Jan 2019. 
